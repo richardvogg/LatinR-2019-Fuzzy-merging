@@ -9,5 +9,6 @@ One approach is to have a list with "dirty" names and compare it to a list of "c
 In the code I later also tried to parallelize to improve the perfomance of the method and practice to work with the parallel package (it takes around 2 minutes for 500000 "dirty" names and 500 clean names) on 3 cores.
 
 **Output:**
-![](img/result.png)
 
+
+![](img/result.png)
