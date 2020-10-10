@@ -12,3 +12,8 @@ In the code I later also tried to parallelize to improve the perfomance of the m
 
 
 ![](img/result.png)
+
+
+## Fuzzy deduplication
+
+If you have a list of words and want to remove fuzzy duplicates, I recommend to take a look at the fuzzy duplicates attempt document (still work in progress). I wrote a function that does the basic job of replacing less frequent appearances with higher frequent appearances of similar words.
